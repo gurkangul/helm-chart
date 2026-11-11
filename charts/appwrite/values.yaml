@@ -537,7 +537,7 @@ redis:
         # -- Image repository.
         repository: oliver006/redis_exporter
         # -- Image tag.
-        tag: v1.96.0-alpine
+        tag: v1.97.0-alpine
         # -- Image digest.
         digest: ""
         # -- Image pull policy.
